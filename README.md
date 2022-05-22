@@ -1,6 +1,7 @@
 # numerical_analysis
 some algorithms for numerical analysis
 一些用Python、Matlab实现的数值分析的方法
+目前包含：
 
 1. 列主元高斯消元法
 2. 牛顿迭代法
